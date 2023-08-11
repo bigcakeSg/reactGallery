@@ -1,4 +1,5 @@
 import ImageGallery from 'react-image-gallery';
+import './styles.scss';
 
 const images = [
   {
